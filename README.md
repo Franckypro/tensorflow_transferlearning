@@ -94,4 +94,5 @@ Ce projet montre comment utiliser l'apprentissage par transfert pour adapter un 
 
 ---
 
-N'hésitez pas à adapter le code pour l'utiliser avec vos propres ensembles de données et à tester d'autres architectures ou optimisations pour améliorer les performances ! 🌟
+## ✍️ Auteur
+Fouejio Francky Joël
